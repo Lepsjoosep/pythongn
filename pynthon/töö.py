@@ -11,7 +11,6 @@ def abc(a, b, c):
     return largest 
 
 
-# Driven code 
 a = input("Esimene arv: ")
 b = input("Teine arv: ")
 c = input("kolmas arv: ")
