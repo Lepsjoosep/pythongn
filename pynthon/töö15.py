@@ -15,6 +15,6 @@ def Check_vows(string, tähed):
     print(len(final))
     print(final)
 
-string = "Peldikus on rahvast rohkem kui inimesi"
+string = "Vetsus on rahvast rohkem kui inimesi"
 tähed   = "aeiouõäöüAEIOUÕÄÖÜ"
 Check_vows(string, tähed)
